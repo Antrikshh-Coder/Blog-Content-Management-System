@@ -180,20 +180,6 @@ query{
 
 ---
 
-# 📸 Screenshots
-
-
-
-```
-<img width="1145" height="242" alt="Screenshot 2026-03-10 at 7 36 27 PM" src="https://github.com/user-attachments/assets/7fefbaad-72ec-469e-a25b-6ac5ecdbf0f9" />
-<img width="1310" height="310" alt="Screenshot 2026-03-10 at 7 52 24 PM" src="https://github.com/user-attachments/assets/3e3ba921-7241-44a6-808e-b86268067299" />
-<img width="1204" height="390" alt="Screenshot 2026-03-10 at 7 35 17 PM" src="https://github.com/user-attachments/assets/b4b89626-02eb-4a91-a8b5-f6fd5d5ab089" />
-<img width="1129" height="220" alt="Screenshot 2026-03-10 at 7 34 13 PM" src="https://github.com/user-attachments/assets/9c98fb7e-4556-4723-b3cb-5229b0d26826" />
-<img width="1097" height="336" alt="Screenshot 2026-03-10 at 7 21 11 PM" src="https://github.com/user-attachments/assets/8ffaaa60-e4fc-4458-8c8c-a494bdb4a895" />
-
-```
-
----
 
 # 📚 Learning Outcomes
 
